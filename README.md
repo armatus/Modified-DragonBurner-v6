@@ -1,6 +1,9 @@
 # Modified-DragonBurner-v6
 Carved out a more generous wiring path
 
+![IMG_5663](https://github.com/armatus/Modified-DragonBurner-v6/assets/71520237/7f233340-8381-49fe-b2d6-b4bfeb052621)
+
+
 ![Screen Shot 2023-09-15 at 8 13 26 AM](https://github.com/armatus/Modified-DragonBurner-v6/assets/71520237/79846553-b017-4097-9d08-44fc41f7a43b)
 
 ![Screen Shot 2023-09-15 at 8 13 45 AM](https://github.com/armatus/Modified-DragonBurner-v6/assets/71520237/b22e6132-f724-4b94-81f6-def5e4c2130a)
